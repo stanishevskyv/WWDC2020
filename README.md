@@ -18,3 +18,11 @@
     </a>
     
 </p>
+
+## WWDC20 Keynote
+
+https://developer.apple.com/videos/play/wwdc2020/101/
+
+## WWDC20 Platforms State of the Union
+
+https://developer.apple.com/videos/play/wwdc2020/102/
