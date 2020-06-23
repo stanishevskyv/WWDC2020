@@ -9,4 +9,12 @@
     <a href="https://apps.apple.com/us/app/apple-developer/id640199958">
         <img src="https://img.shields.io/badge/Apple Developer App (Mac, iPhone, iPad, Apple TV)-black" />
     </a>
+    <br>
+    <a href="https://developer.apple.com/forums/">
+        <img src="https://img.shields.io/badge/Apple Developer Forums-orange" />
+    </a>
+    <a href="https://developer.apple.com/wwdc20/sessions/">
+        <img src="https://img.shields.io/badge/WWDC20 Sessions-orange" />
+    </a>
+    
 </p>
